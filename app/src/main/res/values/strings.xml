@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">android-dashboard-problem</string>
+
+    <string name="hello">Hello, %1$s! 👋</string>
+    <string name="date">EEEE, MMMM d yyyy</string>
+    <string name="profile_name">Sundar Pichai</string>
+    <string name="main">Main</string>
+    <string name="job_list_show_screen">jobListShowScreen</string>
+    <string name="loading">Loading…</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="job_stats">Job Stats</string>
+    <string name="jobs">%1$s Jobs</string>
+    <string name="of_completed">%1$s of %2$s completed</string>
+    <string name="yet_to_start">Yet to start (%1$s)</string>
+    <string name="in_progress_">In-Progress (%1$s) </string>
+    <string name="cancelled">Cancelled (%1$s)</string>
+    <string name="completed">Completed (%1$s)</string>
+    <string name="in_complete">In-Complete (%1$s)</string>
+    <string name="invoice_stats">Invoice Stats</string>
+    <string name="total_value">Total value (\$%1$s)</string>
+    <string name="collected">\$%1$s collected</string>
+    <string name="draft">Draft (\$%1$s)</string>
+    <string name="pending">Pending (\$%1$s)</string>
+    <string name="paid">Paid (\$%1$s)</string>
+    <string name="bad_debt">Bad Debt (\$%1$s)</string>
+    <string name="jobs_count">Jobs (%1$s)</string>
+    <string name="back">Back</string>
+    <string name="no_record_found">No Record Found!</string>
+    <string name="job_number">#%1$s</string>
+
+    <!--Days of month strings -->
+
+    <string name="today">Today, %1$s - %2$s</string>
+    <string name="yesterday_today">Yesterday, %1$s → Today, %2$s</string>
+    <string name="yesterday">Yesterday, %1$s → %2$s, %3$s</string>
+    <string name="yesterday_end_date">%1$s, %2$s   → Yesterday, %3$s</string>
+    <string name="start_date_time_time">%1$s, %2$s  -  %3$s</string>
+    <string name="start_date_time_end_date_time">%1$s, %2$s → %3$s, %4$s</string>
+    <string name="st">st</string>
+    <string name="nd">nd</string>
+    <string name="rd">rd</string>
+    <string name="th">th</string>
+</resources>
